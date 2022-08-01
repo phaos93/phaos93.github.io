@@ -1,28 +1,20 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Exercício de classe 🏫
+# Desafio | Front-end - Módulo 1
 
-## Deploy Github Pages
+O objetivo deste exercício é replicar a página encontrada no arquivo 'Desafio front academy 1.fig'.
 
-Nesse exercício você deve fazer o deploy do projeto encontrado na pasta `githubpages` dentro da pasta `classe-01`.
+## Páginas obrigatórias
+ - Início
 
-<details>
-    <summary>Dicas</summary>
-    <ul>
-        <li>Siga os tutoriais do site oficial do `Github Pages`</li>
-    <ul>
-    
-</details>
+## Páginas opcionais
+ - Post (Continuar Lendo)
+ - Contato
 
-### Links Úteis:
-https://pages.github.com/
+Você está livre para utilizar o método de layout de sua preferência (flex, grid, block, etc).
 
----
+**LEMBRE-SE**: é melhor feito do quê perfeito!!!
 
-Preencha a checklist para finalizar o exercício:
 
-- [ ] Resolver o exercício revendo a aula se necessário
-- [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
-- [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
 
-###### tags: `github-pages`
+###### tags: `front-end` `módulo 1` `HTML` `CSS` `desafio`
